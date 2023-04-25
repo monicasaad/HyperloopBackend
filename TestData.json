@@ -1,0 +1,709 @@
+[
+ {
+  "Time": 0,
+  "Distance": 0,
+  "Velocity": 0,
+  "Acceleration": 0,
+  "Laps": 0
+ },
+ {
+  "Time": 1,
+  "Distance": 0.1,
+  "Velocity": 0.1,
+  "Acceleration": 0.01,
+  "Laps": 0
+ },
+ {
+  "Time": 2,
+  "Distance": 0.44641016151377544,
+  "Velocity": 0.17320508075688773,
+  "Acceleration": 0.01,
+  "Laps": 0
+ },
+ {
+  "Time": 3,
+  "Distance": 1.181257084348729,
+  "Velocity": 0.2449489742783178,
+  "Acceleration": 0.01,
+  "Laps": 0
+ },
+ {
+  "Time": 4,
+  "Distance": 2.4461681484160804,
+  "Velocity": 0.31622776601683794,
+  "Acceleration": 0.01,
+  "Laps": 0
+ },
+ {
+  "Time": 5,
+  "Distance": 4.68223612591587,
+  "Velocity": 0.4472135954999579,
+  "Acceleration": 0.02,
+  "Laps": 0
+ },
+ {
+  "Time": 6,
+  "Distance": 8.076348675611298,
+  "Velocity": 0.565685424949238,
+  "Acceleration": 0.02,
+  "Laps": 0
+ },
+ {
+  "Time": 7,
+  "Distance": 12.823979663798985,
+  "Velocity": 0.6782329983125268,
+  "Acceleration": 0.02,
+  "Laps": 0
+ },
+ {
+  "Time": 8,
+  "Distance": 19.123185963008435,
+  "Velocity": 0.7874007874011811,
+  "Acceleration": 0.02,
+  "Laps": 0
+ },
+ {
+  "Time": 9,
+  "Distance": 27.61376898185938,
+  "Velocity": 0.9433981132056605,
+  "Acceleration": 0.03,
+  "Laps": 0
+ },
+ {
+  "Time": 10,
+  "Distance": 38.5224810964951,
+  "Velocity": 1.0908712114635715,
+  "Acceleration": 0.03,
+  "Laps": 0
+ },
+ {
+  "Time": 11,
+  "Distance": 52.08419190302685,
+  "Velocity": 1.2328828005937953,
+  "Acceleration": 0.03,
+  "Laps": 0
+ },
+ {
+  "Time": 12,
+  "Distance": 68.53776294398935,
+  "Velocity": 1.3711309200802089,
+  "Acceleration": 0.03,
+  "Laps": 0
+ },
+ {
+  "Time": 13,
+  "Distance": 88.67727634426791,
+  "Velocity": 1.5491933384829668,
+  "Acceleration": 0.04,
+  "Laps": 0
+ },
+ {
+  "Time": 14,
+  "Distance": 112.76378709198727,
+  "Velocity": 1.7204650534085255,
+  "Acceleration": 0.04,
+  "Laps": 0
+ },
+ {
+  "Time": 15,
+  "Distance": 141.06573048815707,
+  "Velocity": 1.886796226411321,
+  "Acceleration": 0.04,
+  "Laps": 1
+ },
+ {
+  "Time": 16,
+  "Distance": 173.8559729392278,
+  "Velocity": 2.04939015319192,
+  "Acceleration": 0.04,
+  "Laps": 1
+ },
+ {
+  "Time": 17,
+  "Distance": 211.41020039766448,
+  "Velocity": 2.209072203437452,
+  "Acceleration": 0.04,
+  "Laps": 1
+ },
+ {
+  "Time": 18,
+  "Distance": 254.0059748359817,
+  "Velocity": 2.3664319132398464,
+  "Acceleration": 0.04,
+  "Laps": 2
+ },
+ {
+  "Time": 19,
+  "Distance": 301.92215164507195,
+  "Velocity": 2.521904042583698,
+  "Acceleration": 0.04,
+  "Laps": 2
+ },
+ {
+  "Time": 20,
+  "Distance": 356.1807915100741,
+  "Velocity": 2.712931993250107,
+  "Acceleration": 0.05,
+  "Laps": 3
+ },
+ {
+  "Time": 21,
+  "Distance": 417.08079151007405,
+  "Velocity": 2.9,
+  "Acceleration": 0.05,
+  "Laps": 3
+ },
+ {
+  "Time": 22,
+  "Distance": 484.92502486855483,
+  "Velocity": 3.083828789021855,
+  "Acceleration": 0.05,
+  "Laps": 4
+ },
+ {
+  "Time": 23,
+  "Distance": 560.0192323682015,
+  "Velocity": 3.2649655434629015,
+  "Acceleration": 0.05,
+  "Laps": 4
+ },
+ {
+  "Time": 24,
+  "Distance": 642.6712740852698,
+  "Velocity": 3.443835071544513,
+  "Acceleration": 0.05,
+  "Laps": 5
+ },
+ {
+  "Time": 25,
+  "Distance": 733.1906090364282,
+  "Velocity": 3.620773398046335,
+  "Acceleration": 0.05,
+  "Laps": 6
+ },
+ {
+  "Time": 26,
+  "Distance": 831.8879240961602,
+  "Velocity": 3.7960505792204615,
+  "Acceleration": 0.05,
+  "Laps": 7
+ },
+ {
+  "Time": 27,
+  "Distance": 938.1527348285941,
+  "Velocity": 3.9357337308308855,
+  "Acceleration": 0.04,
+  "Laps": 8
+ },
+ {
+  "Time": 28,
+  "Distance": 1052.2677645135573,
+  "Velocity": 4.075536774462967,
+  "Acceleration": 0.04,
+  "Laps": 9
+ },
+ {
+  "Time": 29,
+  "Distance": 1174.5157501820336,
+  "Velocity": 4.2154477816716,
+  "Acceleration": 0.04,
+  "Laps": 10
+ },
+ {
+  "Time": 30,
+  "Distance": 1305.179440624329,
+  "Velocity": 4.3554563480765145,
+  "Acceleration": 0.04,
+  "Laps": 11
+ },
+ {
+  "Time": 31,
+  "Distance": 1444.5415947408608,
+  "Velocity": 4.495553358597806,
+  "Acceleration": 0.04,
+  "Laps": 13
+ },
+ {
+  "Time": 32,
+  "Distance": 1592.8849801680512,
+  "Velocity": 4.635730794599705,
+  "Acceleration": 0.04,
+  "Laps": 14
+ },
+ {
+  "Time": 33,
+  "Distance": 1750.4923721266773,
+  "Velocity": 4.775981574503822,
+  "Acceleration": 0.04,
+  "Laps": 15
+ },
+ {
+  "Time": 34,
+  "Distance": 1917.6465524513105,
+  "Velocity": 4.9162994213127424,
+  "Acceleration": 0.04,
+  "Laps": 17
+ },
+ {
+  "Time": 35,
+  "Distance": 2093.4148658641666,
+  "Velocity": 5.021951811795889,
+  "Acceleration": 0.03,
+  "Laps": 19
+ },
+ {
+  "Time": 36,
+  "Distance": 2278.035558095563,
+  "Velocity": 5.1283525619832355,
+  "Acceleration": 0.03,
+  "Laps": 20
+ },
+ {
+  "Time": 37,
+  "Distance": 2471.7474317636475,
+  "Velocity": 5.235456045083371,
+  "Acceleration": 0.03,
+  "Laps": 22
+ },
+ {
+  "Time": 38,
+  "Distance": 2674.789791876014,
+  "Velocity": 5.343220002957019,
+  "Acceleration": 0.03,
+  "Laps": 24
+ },
+ {
+  "Time": 39,
+  "Distance": 2887.4023973348626,
+  "Velocity": 5.451605268175604,
+  "Acceleration": 0.03,
+  "Laps": 26
+ },
+ {
+  "Time": 40,
+  "Distance": 3109.825417726188,
+  "Velocity": 5.5605755097831375,
+  "Acceleration": 0.03,
+  "Laps": 28
+ },
+ {
+  "Time": 41,
+  "Distance": 3342.299394764479,
+  "Velocity": 5.670097000933935,
+  "Acceleration": 0.03,
+  "Laps": 31
+ },
+ {
+  "Time": 42,
+  "Distance": 3583.5344668414887,
+  "Velocity": 5.743692192309752,
+  "Acceleration": 0.02,
+  "Laps": 33
+ },
+ {
+  "Time": 43,
+  "Distance": 3833.711704015457,
+  "Velocity": 5.818075283115543,
+  "Acceleration": 0.02,
+  "Laps": 35
+ },
+ {
+  "Time": 44,
+  "Distance": 4093.0132273430304,
+  "Velocity": 5.893216439263028,
+  "Acceleration": 0.02,
+  "Laps": 38
+ },
+ {
+  "Time": 45,
+  "Distance": 4359.920514617095,
+  "Velocity": 5.9312730505347675,
+  "Acceleration": 0.01,
+  "Laps": 40
+ },
+ {
+  "Time": 46,
+  "Distance": 4634.537047258523,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0.01,
+  "Laps": 43
+ },
+ {
+  "Time": 47,
+  "Distance": 4915.123504522589,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 46
+ },
+ {
+  "Time": 48,
+  "Distance": 5201.679886409296,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 49
+ },
+ {
+  "Time": 49,
+  "Distance": 5494.206192918642,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 52
+ },
+ {
+  "Time": 50,
+  "Distance": 5792.702424050628,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 54
+ },
+ {
+  "Time": 51,
+  "Distance": 6097.168579805254,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 57
+ },
+ {
+  "Time": 52,
+  "Distance": 6407.604660182519,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 60
+ },
+ {
+  "Time": 53,
+  "Distance": 6724.010665182424,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 64
+ },
+ {
+  "Time": 54,
+  "Distance": 7046.38659480497,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 67
+ },
+ {
+  "Time": 55,
+  "Distance": 7374.732449050154,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 70
+ },
+ {
+  "Time": 56,
+  "Distance": 7709.048227917979,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 73
+ },
+ {
+  "Time": 57,
+  "Distance": 8049.333931408442,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 77
+ },
+ {
+  "Time": 58,
+  "Distance": 8395.589559521546,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 80
+ },
+ {
+  "Time": 59,
+  "Distance": 8747.815112257289,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 83
+ },
+ {
+  "Time": 60,
+  "Distance": 9106.010589615673,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 87
+ },
+ {
+  "Time": 61,
+  "Distance": 9470.175991596696,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 91
+ },
+ {
+  "Time": 62,
+  "Distance": 9840.311318200358,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 94
+ },
+ {
+  "Time": 63,
+  "Distance": 10216.416569426661,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 98
+ },
+ {
+  "Time": 64,
+  "Distance": 10598.491745275604,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 102
+ },
+ {
+  "Time": 65,
+  "Distance": 10986.536845747185,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 105
+ },
+ {
+  "Time": 66,
+  "Distance": 11380.551870841406,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 109
+ },
+ {
+  "Time": 67,
+  "Distance": 11780.536820558267,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 113
+ },
+ {
+  "Time": 68,
+  "Distance": 12186.491694897768,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 117
+ },
+ {
+  "Time": 69,
+  "Distance": 12598.416493859908,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 121
+ },
+ {
+  "Time": 70,
+  "Distance": 13016.311217444689,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 125
+ },
+ {
+  "Time": 71,
+  "Distance": 13440.175865652109,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 130
+ },
+ {
+  "Time": 72,
+  "Distance": 13870.010438482168,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 134
+ },
+ {
+  "Time": 73,
+  "Distance": 14305.814935934868,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 138
+ },
+ {
+  "Time": 74,
+  "Distance": 14747.589358010207,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 143
+ },
+ {
+  "Time": 75,
+  "Distance": 15195.333704708186,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 147
+ },
+ {
+  "Time": 76,
+  "Distance": 15649.047976028805,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 151
+ },
+ {
+  "Time": 77,
+  "Distance": 16108.732171972064,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 156
+ },
+ {
+  "Time": 78,
+  "Distance": 16574.38629253796,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 161
+ },
+ {
+  "Time": 79,
+  "Distance": 17046.0103377265,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 165
+ },
+ {
+  "Time": 80,
+  "Distance": 17523.604307537677,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 170
+ },
+ {
+  "Time": 81,
+  "Distance": 18007.168201971494,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 175
+ },
+ {
+  "Time": 82,
+  "Distance": 18496.70202102795,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 180
+ },
+ {
+  "Time": 83,
+  "Distance": 18992.205764707047,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 184
+ },
+ {
+  "Time": 84,
+  "Distance": 19493.679433008783,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 189
+ },
+ {
+  "Time": 85,
+  "Distance": 20001.12302593316,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 194
+ },
+ {
+  "Time": 86,
+  "Distance": 20514.536543480175,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 200
+ },
+ {
+  "Time": 87,
+  "Distance": 21033.91998564983,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 205
+ },
+ {
+  "Time": 88,
+  "Distance": 21559.273352442127,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 210
+ },
+ {
+  "Time": 89,
+  "Distance": 22090.59664385706,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 215
+ },
+ {
+  "Time": 90,
+  "Distance": 22627.889859894636,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 220
+ },
+ {
+  "Time": 91,
+  "Distance": 23171.153000554852,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 226
+ },
+ {
+  "Time": 92,
+  "Distance": 23720.386065837705,
+  "Velocity": 5.96992462263972,
+  "Acceleration": 0,
+  "Laps": 231
+ },
+ {
+  "Time": 93,
+  "Distance": 24238.10462837917,
+  "Velocity": 5.566866263886713,
+  "Acceleration": -0.05,
+  "Laps": 237
+ },
+ {
+  "Time": 94,
+  "Distance": 24624.420613034217,
+  "Velocity": 4.109744517606904,
+  "Acceleration": -0.15,
+  "Laps": 242
+ },
+ {
+  "Time": 95,
+  "Distance": 24882.67388019651,
+  "Velocity": 2.718455443813638,
+  "Acceleration": -0.1,
+  "Laps": 246
+ },
+ {
+  "Time": 96,
+  "Distance": 25037.17125881505,
+  "Velocity": 1.6093476939431088,
+  "Acceleration": -0.05,
+  "Laps": 248
+ },
+ {
+  "Time": 97,
+  "Distance": 25115.375158973548,
+  "Velocity": 0.8062257748298566,
+  "Acceleration": -0.02,
+  "Laps": 250
+ },
+ {
+  "Time": 98,
+  "Distance": 25154.57515897355,
+  "Velocity": 0.40000000000000324,
+  "Acceleration": -0.005,
+  "Laps": 251
+ },
+ {
+  "Time": 99,
+  "Distance": 25158.53515897355,
+  "Velocity": 0.04000000000003214,
+  "Acceleration": -0.0016,
+  "Laps": 251
+ },
+ {
+  "Time": 100,
+  "Distance": 25159.535158973566,
+  "Velocity": 0.010000000000128568,
+  "Acceleration": -1.5E-05,
+  "Laps": 251
+ }
+]
